@@ -9,7 +9,7 @@
 ## Usage
 1. Clone the repository
 ```shell
-git clone https://github.com/aziz-0110/count-fingers-detection.git 
+git clone https://github.com/Herusyahputra/Motion-fingers-detection.git 
 cd count-fingers-detection
 ```
 2. Build and activated the virtual environment
